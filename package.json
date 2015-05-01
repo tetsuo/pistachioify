@@ -1,6 +1,6 @@
 {
   "name": "pistachioify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "browserify transform for transpiling pistachio templates",
   "main": "index.js",
   "scripts": {
