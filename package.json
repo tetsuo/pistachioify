@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/tetsuo/pistachioify",
   "dependencies": {
-    "pistachio-compiler": "git://github.com/tetsuo/pistachio-compiler",
+    "pistachio-compiler": "^0.1.0",
     "through": "^2.3.6"
   }
 }
